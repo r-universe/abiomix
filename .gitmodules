@@ -22,6 +22,14 @@
 	path = Ropendal
 	url = https://github.com/abiomix/abiomix-r-open
 	subdir = packages/Ropendal
+[submodule "RsimdDispatch"]
+	path = RsimdDispatch
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/RsimdDispatch
+[submodule "Rtinycc"]
+	path = Rtinycc
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/Rtinycc
 [submodule "STITCH"]
 	path = STITCH
 	url = https://github.com/abiomix/abiomix-r-open
