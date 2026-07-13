@@ -1,0 +1,10 @@
+{
+  "id": 146233316,
+  "created_at": "2026-07-13T07:43:45.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["abiomix-r-open", "abiomix.r-universe.dev"]
+}
