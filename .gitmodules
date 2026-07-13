@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/abiomix/abiomix.r-universe.dev
 	branch = HEAD
+[submodule "QUILT"]
+	path = QUILT
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/QUILT
 [submodule "RBCFTools"]
 	path = RBCFTools
 	url = https://github.com/abiomix/abiomix-r-open
@@ -18,10 +22,18 @@
 	path = Ropendal
 	url = https://github.com/abiomix/abiomix-r-open
 	subdir = packages/Ropendal
+[submodule "STITCH"]
+	path = STITCH
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/STITCH
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/abiomix/abiomix-r-open
 	subdir = packages/htmxr
+[submodule "httpuv"]
+	path = httpuv
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/httpuv
 [submodule "s7contract"]
 	path = s7contract
 	url = https://github.com/abiomix/abiomix-r-open
