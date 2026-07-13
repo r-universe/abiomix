@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/abiomix/abiomix.r-universe.dev
 	branch = HEAD
+[submodule "RBCFTools"]
+	path = RBCFTools
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/RBCFTools
+[submodule "Rducks"]
+	path = Rducks
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/Rducks
+[submodule "Rminibwa"]
+	path = Rminibwa
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/Rminibwa
+[submodule "Ropendal"]
+	path = Ropendal
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/Ropendal
+[submodule "htmxr"]
+	path = htmxr
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/htmxr
+[submodule "s7contract"]
+	path = s7contract
+	url = https://github.com/abiomix/abiomix-r-open
+	subdir = packages/s7contract
