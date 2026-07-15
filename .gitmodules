@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/abiomix/abiomix.r-universe.dev
 	branch = HEAD
-[submodule "QUILT"]
-	path = QUILT
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/QUILT
 [submodule "RBCFTools"]
 	path = RBCFTools
 	url = https://github.com/abiomix/abiomix-r-open
@@ -30,10 +26,6 @@
 	path = Rtinycc
 	url = https://github.com/abiomix/abiomix-r-open
 	subdir = packages/Rtinycc
-[submodule "STITCH"]
-	path = STITCH
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/STITCH
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/abiomix/abiomix-r-open
