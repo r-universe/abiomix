@@ -2,39 +2,7 @@
 	path = .registry
 	url = https://github.com/abiomix/abiomix.r-universe.dev
 	branch = HEAD
-[submodule "RBCFTools"]
-	path = RBCFTools
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/RBCFTools
-[submodule "Rducks"]
-	path = Rducks
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/Rducks
-[submodule "Rminibwa"]
-	path = Rminibwa
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/Rminibwa
-[submodule "Ropendal"]
-	path = Ropendal
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/Ropendal
-[submodule "RsimdDispatch"]
-	path = RsimdDispatch
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/RsimdDispatch
-[submodule "Rtinycc"]
-	path = Rtinycc
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/Rtinycc
-[submodule "htmxr"]
-	path = htmxr
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/htmxr
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/abiomix/abiomix-r-open
 	subdir = packages/httpuv
-[submodule "s7contract"]
-	path = s7contract
-	url = https://github.com/abiomix/abiomix-r-open
-	subdir = packages/s7contract
